@@ -32,7 +32,7 @@ Especificos:
 
 - Explicar que es el método de corriente en ramas y lazos y leyes en las que estos se encuentran basados.
 
-- Determinar mediante una explicación que son los campos magnéticos y que es el electromagnetismo.
+- Definir los campos magnéticos, electromagnetismo y conocer algunos dispositivos electromagnéticos
 
 CAPITULO 9: Analisis de ramas, lazos o nodos
 
@@ -79,6 +79,14 @@ Conclusiones:
 - El metodo de sustitucion, determinantes y calculadora son los principales metodos que debemos de tener en cuenta al momento de querer resolver un conjunto de ecuaciones simultanes
 
 - El método de corriente en ramas y lazos se basan principalmente en las leyes de Kirchoff
+
+- Ley de Faraday Ley que establece que el voltaje inducido en una bobina de alambre es igual al número de vueltas que tenga la bobina multiplicado por la razón de cambio del flujo magnético.
+
+- Ley de Lenz Ley que establece que cuando cambia la corriente que circula a través de una bobina, la polaridad del voltaje inducido creado por el campo magnético cambiante es tal que siempre se opone al cambio de corriente que lo provocó. La corriente no puede cambiar instantáneamente
+
+- Electromagnetismo Es la producción de un campo magnético por la corriente que recorre un conductor. 
+
+- Campo magnético Campo de fuerza que irradia desde el polo norte hasta el polo sur de un imán.
 
 Recomendaciones:
 
