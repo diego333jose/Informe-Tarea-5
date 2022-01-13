@@ -38,43 +38,47 @@ CAPITULO 9: Analisis de ramas, lazos o nodos
 
 Marco Teorico:
 
-![](
+![](https://github.com/diego333jose/Informe-Tarea-5/blob/main/Imagenes/SECCIÓN%209mapa_page-0001.jpg)
 
-![](
+![](https://github.com/diego333jose/Informe-Tarea-5/blob/main/Imagenes/SECCIÓN%209mapa_page-0002.jpg)
 
 Ejercicios
 
-![](
+![](https://github.com/diego333jose/Informe-Tarea-5/blob/main/Imagenes/Deber%205_page-0001.jpg)
 
-![](
+![](https://github.com/diego333jose/Informe-Tarea-5/blob/main/Imagenes/Deber%205_page-0002.jpg)
 
-![](
+![](https://github.com/diego333jose/Informe-Tarea-5/blob/main/Imagenes/Deber%205_page-0003.jpg)
 
-![](
+![](https://github.com/diego333jose/Informe-Tarea-5/blob/main/Imagenes/Deber%205_page-0004.jpg)
 
-![](
+![](https://github.com/diego333jose/Informe-Tarea-5/blob/main/Imagenes/Deber%205_page-0005.jpg)
+
+![](https://github.com/diego333jose/Informe-Tarea-5/blob/main/Imagenes/Deber%205_page-0006.jpg)
+
+![](https://github.com/diego333jose/Informe-Tarea-5/blob/main/Imagenes/Deber%205_page-0007.jpg)
 
 CAPITULO 10: Magnetismo y electromagnetismo
 
 Marco Teorico:
 
-![](
+![](https://github.com/diego333jose/Informe-Tarea-5/blob/main/Imagenes/SECCIÓN%2010mapa_page-0001.jpg)
 
-![](
+![](https://github.com/diego333jose/Informe-Tarea-5/blob/main/Imagenes/SECCIÓN%2010mapa_page-0002.jpg)
 
 Ejercicios:
 
-![](
+![](https://github.com/diego333jose/Informe-Tarea-5/blob/main/Imagenes/SECCIÓN%2010%20(1)_page-0001.jpg)
 
-![](
+![](https://github.com/diego333jose/Informe-Tarea-5/blob/main/Imagenes/SECCIÓN%2010%20(1)_page-0002.jpg)
 
-![](
-
-![](
+![](https://github.com/diego333jose/Informe-Tarea-5/blob/main/Imagenes/SECCIÓN%2010%20(1)_page-0003.jpg)
 
 Conclusiones:
 
+- El metodo de sustitucion, determinantes y calculadora son los principales metodos que debemos de tener en cuenta al momento de querer resolver un conjunto de ecuaciones simultanes
 
+- El método de corriente en ramas y lazos se basan principalmente en las leyes de Kirchoff
 
 Recomendaciones:
 
